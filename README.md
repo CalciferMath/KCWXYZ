@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KCWXYZ
 - 👀 I’m interested in mining, trading crypto, forex stocks and math
-- 🌱 I’m currently learning applied math
+- 🌱 I’m an applied math PhD student
 - 💞️ I’m looking to collaborate on anything relates to my interests
 
 <!---
